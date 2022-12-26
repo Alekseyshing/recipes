@@ -11,9 +11,9 @@
     "@babel/runtime": "^7.20.7",
     "@contentful/rich-text-react-renderer": "^15.16.2",
     "contentful": "^9.2.14",
-    "next": "10.0.8",
-    "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "next": "^12.3.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@babel/helper-compilation-targets": "^7.20.7",
